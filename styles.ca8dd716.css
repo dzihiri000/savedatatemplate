@@ -8,41 +8,41 @@
 }
 @font-face {
   font-family: avenir-book;
-  src: url(/Avenir-Book.af577520.woff2) format("woff2"),
-    url(/Avenir-Book.ec4ca31b.woff) format("woff"),
-    url(/Avenir-Book.ad549966.ttf) format("truetype");
+  src: url(Avenir-Book.af577520.woff2) format("woff2"),
+    url(Avenir-Book.ec4ca31b.woff) format("woff"),
+    url(Avenir-Book.ad549966.ttf) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: avenir-heavy;
-  src: url(/Avenir-Heavy.3efdf7f3.woff2) format("woff2"),
-    url(/Avenir-Heavy.2876f0de.woff) format("woff"),
-    url(/Avenir-Heavy.3722640b.ttf) format("truetype");
+  src: url(Avenir-Heavy.3efdf7f3.woff2) format("woff2"),
+    url(Avenir-Heavy.2876f0de.woff) format("woff"),
+    url(Avenir-Heavy.3722640b.ttf) format("truetype");
   font-weight: 900;
   font-style: normal;
 }
 @font-face {
   font-family: avenir-medium;
   src: url(Avenir-Medium.3ffc74a9.woff2) format("woff2"),
-    url(/Avenir-Medium.7dfc6dfc.woff) format("woff"),
-    url(/Avenir-Medium.90ce0e0b.ttf) format("truetype");
+    url(Avenir-Medium.7dfc6dfc.woff) format("woff"),
+    url(Avenir-Medium.90ce0e0b.ttf) format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 @font-face {
   font-family: helvetica;
-  src: url(/helvetica-webfont.89df4ced.woff2) format("woff2"),
-    url(/helvetica-webfont.0338d9ec.woff) format("woff"),
-    url(/helvetica-webfont.c645bf40.ttf) format("truetype");
+  src: url(helvetica-webfont.89df4ced.woff2) format("woff2"),
+    url(helvetica-webfont.0338d9ec.woff) format("woff"),
+    url(helvetica-webfont.c645bf40.ttf) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: helvetica-bold;
-  src: url(/helvetica-bold-webfont.b1e36e42.woff2) format("woff2"),
-    url(/helvetica-bold-webfont.dcdf4ceb.woff) format("woff"),
-    url(/helvetica-bold-webfont.685b49d6.ttf) format("truetype");
+  src: url(helvetica-bold-webfont.b1e36e42.woff2) format("woff2"),
+    url(helvetica-bold-webfont.dcdf4ceb.woff) format("woff"),
+    url(helvetica-bold-webfont.685b49d6.ttf) format("truetype");
   font-weight: 400;
   font-style: normal;
 }
